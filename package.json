@@ -26,7 +26,7 @@
     "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "5.15.2",
+    "@fortawesome/fontawesome-free": "5.15.4",
     "animate.css": "^4.1.1",
     "bootstrap": "4.6.0",
     "jquery": "3.5.1",
